@@ -1,5 +1,7 @@
 # Verifying Data Java
 
+![](https://img.shields.io/badge/Made%20with-Android%20Studio-brightgreen) ![](https://img.shields.io/badge/Made%20with-Java-purple)
+
 It is an app for verify user data in Android with Java.
 
 <div align="center"><img src="https://imgur.com/TyKV3xW.gif" width="280" height="510" align="middle"/></div>
